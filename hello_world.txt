@@ -1,3 +1,4 @@
 "Learning how to use Git."
 
 "Testing commit message"
+"Testing commit message2"
