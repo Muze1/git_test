@@ -1,1 +1,3 @@
 "Learning how to use Git."
+
+"Testing commit message"
