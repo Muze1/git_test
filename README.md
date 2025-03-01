@@ -1,2 +1,4 @@
 # git_test
-Learning how to use Git and GitHub
+-- Learning how to use Git and GitHub --
+
+"Hello Odin!"
